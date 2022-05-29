@@ -1,0 +1,5 @@
+0 Background Noise
+1 Discomfort
+2 Hunger
+3 Sleepy
+4 Stress
